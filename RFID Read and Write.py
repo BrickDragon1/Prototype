@@ -3,7 +3,7 @@
 #sudo pip3 install spidev, previous step is important for downloading the spidev library which is the interaction through SPI communcation hence the RFID
 
 ##sudo pip3 install mfrc522, last the RFID library is imported in-order to achieve processes towards the RFID, important for defining data blocks, buffer
- and reading and writing to a RFID tag. 
+## and reading and writing to a RFID tag. 
  
  ##mkdir ~/pi-rfid, new folder is created, of which is duplicated to hold read and write files allowing either function to be called
  
